@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
@@ -23,3 +24,7 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+=======
+# reactminiyoutube
+A react application used to search and play videos using the youtube developers API 
+>>>>>>> dbd2304b142800b8a60c237e0282afd451a2780f
