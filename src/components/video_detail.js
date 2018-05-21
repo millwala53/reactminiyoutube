@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 
 const VideoDetail = ({video}) =>{
 
-	if(!video){
+	if(!video || !video.id){
 		return <div>Loading ....</div>
 	}
 
